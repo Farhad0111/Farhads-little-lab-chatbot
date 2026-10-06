@@ -1,0 +1,134 @@
+﻿=== FARHAD BILLAH — PERSONAL PORTFOLIO KNOWLEDGE BASE ===
+Sources: https://farhadbillah.vercel.app/ | https://farhad-billah-portfolio.vercel.app/
+
+--- IDENTITY ---
+Full Name: Md. Farhad Billah
+Email: farhadbillah2020@gmail.com
+Title: AI Engineer · Researcher
+Tagline: "I build AI with a little magic."
+Status: Available for AI projects (as of 2026)
+
+--- LINKS ---
+Portfolio (Academic): https://farhadbillah.vercel.app/
+Portfolio (Creative):  https://farhad-billah-portfolio.vercel.app/
+GitHub:        https://github.com/Farhad0111
+LinkedIn:      https://www.linkedin.com/in/farhadbillah/
+YouTube Channel: https://www.youtube.com/@faru0111
+Google Scholar: https://scholar.google.com/citations?hl=en&user=d4c7qv4AAAAJ
+CV (PDF):      https://farhadbillah.vercel.app/data/Farhad_Billah_AI_Engineer.pdf
+
+--- ABOUT / SUMMARY ---
+AI Engineer with 2+ years of experience in OCR, voice assistants, text-to-video, and AI-powered content generation.
+Skilled in LLMs, RAG, FastAPI, and computer vision, with experience developing educational AI content for children.
+Passionate about turning research into scalable real-world solutions.
+Author of 3 IEEE/journal and conference papers.
+Japanese language proficiency: JLPT N5.
+Works in the space between research and real products.
+Creates educational AI content for children.
+
+--- EDUCATION ---
+Degree: BSc in Computer Science and Engineering (CSE), Major: Data Science
+Institution: East West University, Dhaka, Bangladesh
+Duration: 2020 - 2024
+CGPA: 3.08 / 4.00 (approximately 85%)
+
+--- WORK EXPERIENCE ---
+
+1. AI Engineer | SM Technology, Dhaka, Bangladesh
+   Period: December 2024 - Present
+   Developed and deployed AI-driven applications including paragraph evaluator, image processing algorithms, text-to-video generator, fitness recommendation system, and voice-powered assistant.
+   Built intelligent solutions for content summarization, goal tracking, and personalized self-improvement.
+
+2. Research Assistant | East West University, Dhaka, Bangladesh
+   Period: January 2026 - Present
+   Capstone project in a team of four under Dr. Md. Sawkat Ali, Associate Professor.
+   Led end-to-end project planning, task allocation, and timeline management.
+
+3. Data Analyst Intern | Designers Do Futuro, Dhaka, Bangladesh
+   Period: August 2023 - January 2024
+   Machine Learning projects involving data cleaning, transformation, preprocessing, enhancement, and visualization.
+   Built optimized pipelines for reliable model training and analysis.
+
+--- TECHNICAL SKILLS ---
+Programming Languages: Python, C++, C, SQL
+AI/ML and Generative AI: ML, DL, NLP, CV, RAG, MCP, PyTorch, TensorFlow/Keras, Scikit-learn, LLMs
+Frameworks and Tools: FastAPI, Docker, Postman, Git, Hugging Face, OpenAI, Groq, Pydantic, Termius
+Specialties: OCR, Voice-to-Text, Text-to-Video, Image Processing, Recommendation Systems, Pandas, NumPy, Data Cleaning, Data Visualization, Data Mining, Exploratory Data Analysis, Statistical Modeling
+Web Technologies: React, HTML, CSS
+
+--- PROJECTS (at SM Technology as AI Engineer) ---
+
+[1] Hook - AI Rizz Wingman
+    Type: AI Assistant, Multimodal AI
+    Description: An AI assistant that accepts images from social media (Messenger, Instagram, LinkedIn, dating apps) and generates intelligent context-aware replies.
+    Link: https://apps.apple.com/us/app/hook-ai-rizz-wingman/id6766006483
+
+[2] MANIFEX
+    Type: Education AI, NLP
+    Description: A paragraph evaluator that checks sentence structure and word usage, assigning marks based on accuracy. AI suggests required keywords.
+    Links: https://play.google.com/store/apps/details?id=com.manifex.app | https://manifex.org/
+
+[3] DFTJUNKIE
+    Type: Image AI, Computer Vision
+    Description: Performs image enhancement, background removal, and automatic trimming using advanced image processing algorithms.
+    Link: https://www.dtfimageprepai.com/
+
+[4] PR3DETOR FITNESS
+    Type: Fitness AI, Recommendation System
+    Description: AI system that recommends gym types and YouTube tutorial videos for exercises. Private chat for premium subscribers.
+    Link: https://apps.apple.com/us/app/pr3detor-fitness/id6759275805
+
+[5] GREETELY
+    Type: HR Email Generation
+    Description: Generates concise emails based on department, categories, tone, and employee recognition criteria, then automatically sends them.
+
+[6] AKKORD
+    Type: Document AI, OCR, LLM
+    Description: OCR system that extracts key contract details: risk, summary, ownership, payment issues, termination conditions, financial terms, unusual clauses. Includes a chat feature.
+
+[7] DONNA LIFE
+    Type: Voice AI, FastAPI
+    Description: AI voice assistant for hands-free task management using natural voice commands. Uses FastAPI and OpenAI models for task creation and schedule questions.
+
+[8] Youimah
+    Type: Generative Video AI
+    Description: Uses Google VEO3 for text-to-video generation with background music support and talking characters.
+
+--- PROJECTS (at Designers Do Futuro as Data Analyst) ---
+
+[1] TikTok Data Visualization - Comprehensive visualization with data cleaning and preprocessing.
+[2] Predicting User Churn in Waze - ML-based approach for user retention strategies.
+[3] FairFare - NYC TLC fare estimation app with multiple ML models.
+[4] Weather Impact on NYC Subway - Rainfall classification using multiple ML models.
+
+--- RESEARCH PAPERS ---
+
+[1] Deep Learning Models for Classification of Red Blood Cells in Microscopy Images for Anemia Diagnosis
+    Venue: COMPAS Conference, 2024
+    Link: https://ieeexplore.ieee.org/abstract/document/10797203
+
+[2] Revisiting ONE Simulator in IoV Research: Seeing the Forest Through the Trees
+    Venue: IEEE Access Journal, 2025
+    Link: https://ieeexplore.ieee.org/document/10929018
+
+[3] ShrimpXNet: A Transfer Learning Framework for Shrimp Disease Classification with Augmented Regularization, Adversarial Training, and Explainable AI
+    Venue: 3ICT Conference, 2025
+    Link: https://arxiv.org/abs/2601.00832
+
+--- LANGUAGES ---
+Bangla: Native
+English: Proficient
+Japanese (Nihongo): JLPT N5
+
+--- ACHIEVEMENTS ---
+Best Campus Ambassador of Robo Tech Valley
+6th Place - Robi Datathon 3.0 Qualifier
+
+--- KEY STATS ---
+8+ AI Projects shipped to production
+3 Research Publications (IEEE/journal)
+2+ Years of professional experience
+
+--- CONTACT ---
+Email: farhadbillah2020@gmail.com
+Open for: AI engineering, research, generative AI, educational content projects

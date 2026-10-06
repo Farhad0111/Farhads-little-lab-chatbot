@@ -1,0 +1,29 @@
+# FastAPI and server dependencies
+fastapi
+uvicorn
+pydantic
+python-multipart
+
+# Text-to-Speech
+gtts
+requests
+
+# Speech-to-Text (Whisper)
+faster-whisper
+numpy
+torch
+torchaudio
+ffmpeg-python
+
+# LLM dependencies 
+langchain
+langchain-community
+transformers
+bitsandbytes
+accelerate
+sentencepiece
+
+# Utility dependencies
+python-dotenv
+langchain-openrouter
+pypdf
