@@ -4,26 +4,13 @@ uvicorn
 pydantic
 python-multipart
 
-# Text-to-Speech
-gtts
+# HTTP client (used for Groq API calls)
+httpx
 requests
 
-# Speech-to-Text (Whisper)
-faster-whisper
-numpy
-torch
-torchaudio
-ffmpeg-python
-
-# LLM dependencies 
-langchain
-langchain-community
-transformers
-bitsandbytes
-accelerate
-sentencepiece
+# Text-to-Speech (lightweight Google TTS)
+gtts
 
 # Utility dependencies
 python-dotenv
-langchain-openrouter
 pypdf
